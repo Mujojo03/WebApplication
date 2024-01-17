@@ -18,4 +18,7 @@ app.UseAuthorization();
 
 app.MapRazorPages();
 
+Console.WriteLine("Something");
+
 app.Run();
+
